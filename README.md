@@ -8,4 +8,4 @@ astronauts color. The program also features collision detection using bounding s
 the astronauts do not pass through each other. 
 
 # Video Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R2beqipHIzM&ab_channel=ScottLee/0.jpg)](https://www.youtube.com/watch?v=R2beqipHIzM&ab_channel=ScottLee)
+[![Among Us Project](http://i3.ytimg.com/vi/R2beqipHIzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=R2beqipHIzM&ab_channel=ScottLee)
